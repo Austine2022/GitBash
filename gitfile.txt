@@ -7,4 +7,4 @@ I am going to get a very lucrative job
 I am going to marry the woman of my dreams
 I am in the naster branch now
 I am learning hwo to merge files
-i hope this is final learning of merging, typed this on new_feature 2
+I hope this is final changes to new feature 2
