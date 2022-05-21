@@ -8,5 +8,4 @@ I am going to marry the woman of my dreams
 I am in the naster branch now
 I am learning hwo to merge files
 I hope this is final changes to new feature 2
-Things are getting clearer now
-Editing on remote
+deleted lines to check something
