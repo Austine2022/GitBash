@@ -5,7 +5,13 @@ I hope i get over it
 i am ver successful
 I am going to get a very lucrative job
 I am going to marry the woman of my dreams
+<<<<<<< HEAD
 I am in the naster branch now
 I am learning hwo to merge files
 I hope this is final changes to new feature 2
 deleted lines to check something
+=======
+adding a new line to the file
+making additions to new feature branch
+about to merge newfeauture now
+>>>>>>> new_feature
